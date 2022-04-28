@@ -1,0 +1,33 @@
+
+.navbar {
+    background-color: #8b008b ;
+}
+
+.quem-somos{
+    background-color:palevioletred ;
+    color: white;
+
+}
+
+.margin {
+    padding-bottom: 40px;
+}
+.letra1 {
+    margin-top: 10px;
+    color: black;
+    font-style: italic;
+}
+
+.redes-sociais {
+    background-color: #da70d6;
+}
+
+.contact {
+    background-color: #FBDCFB;
+    color: #8b008b;
+}
+ .tabom {
+     color: white;
+     background-color: black;
+     font-style: italic;
+ }
